@@ -1,7 +1,7 @@
 # PWA Text Editor
 ## Description
 
-Check out the deployed application here! ---> 
+Check out the deployed application here! ---> https://dominics-pwa.herokuapp.com/
 
 A progressive web application (PWA) text editor is a web-based tool that allows users to create, edit, and save text documents using a modern web browser. PWAs are designed to provide a fast, reliable, and seamless user experience, with features that make them feel and function like native applications.
 
@@ -13,7 +13,7 @@ Overall, a PWA text editor offers a powerful, flexible, and convenient way to cr
 
 # Preview
 
-![Front Page of Website](./images/cheat-leaf-home.png)
+![Front Page of Website](./images/pwa-sc.png)
 
 
 ## Table of Contents
